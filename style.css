@@ -1,3 +1,7 @@
 .right_align {
 	text-align: right;
 }
+
+.black_background {
+	background: black;
+}
