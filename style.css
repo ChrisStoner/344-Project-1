@@ -3,5 +3,10 @@
 }
 
 .black_background {
-	background: black;
+	background: #121616;
+}
+
+.offset_down {
+	position: relative;
+	top: 5px;
 }
