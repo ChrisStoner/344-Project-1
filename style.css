@@ -10,3 +10,11 @@
 	position: relative;
 	top: 5px;
 }
+
+.h3 {
+	text: bold;
+}
+
+.image_color {
+	background: #aecfd2;
+}
