@@ -2,6 +2,10 @@
 	text-align: right;
 }
 
+.center_align {
+	text-align: center;	
+}
+
 .black_background {
 	background: #121616;
 }
