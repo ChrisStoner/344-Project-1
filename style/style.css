@@ -1,0 +1,24 @@
+.right_align {
+	text-align: right;
+}
+
+.center_align {
+	text-align: center;	
+}
+
+.black_background {
+	background: #121616;
+}
+
+.offset_down {
+	position: relative;
+	top: 5px;
+}
+
+.h3 {
+	text: bold;
+}
+
+.image_color {
+	background: #aecfd2;
+}
